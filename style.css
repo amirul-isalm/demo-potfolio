@@ -1,0 +1,12 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+.half{
+
+    width: 50%;}
+section{
+    display: flex;
+}
