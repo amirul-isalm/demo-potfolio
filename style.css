@@ -4,7 +4,7 @@ body{
     font-weight: 400;
 }
 h1{
-    font-size: 42px;
+    font-size: 40px;
 }
 .half{
 
@@ -42,4 +42,44 @@ background-image: url(images/dream-bg.png);
 background-repeat: no-repeat;
 background-position: right;
 
+}
+
+.middle{
+
+    margin-top: 100px;
+}
+p{
+
+    color: #362f2fe7;
+    font-size: 15px;
+}
+
+.last-half{
+    width: 40%;
+ 
+    box-shadow: 10px 10px 30px gray;
+    padding-left: 20px;
+    margin-left: 5%;
+    padding-bottom: 5%;
+    margin-bottom: 10%;
+    border-radius: 10px;
+   border-left: 7px solid;
+    border-image:linear-gradient(tomato, blue) ;
+    border-image-slice: 1;
+
+   
+}
+
+.last-div{
+
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+
+}
+footer{
+    text-align: center;
+}
+.tomato{
+    color: blue
 }
